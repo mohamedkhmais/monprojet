@@ -10,3 +10,6 @@
 .align-items-center{
     align-items: center;
 }
+.justify-content{
+    justify-content: space-around;
+}
