@@ -4,3 +4,12 @@ h1{
 .red{ 
     color: red;
 }
+.bg-bleu{
+    background-color: rgb(4, 4, 66);
+}
+.white{
+    color: white;
+}
+black{
+    color: black;
+}
